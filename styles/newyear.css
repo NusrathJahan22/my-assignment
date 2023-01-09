@@ -1,0 +1,44 @@
+* nav {
+h1: right-bottom
+display: flex;
+}
+.text-primary{
+color:red
+}
+h1{
+    right-bottom
+}
+.section-description{
+    .div
+margin: 30px;
+}
+.b-section
+    margin-right: 30px;
+}
+.about{
+    margin: 300px;
+}
+.bed{
+    display: flex;
+    gap: 1%;
+}
+.order{
+display: flex;
+gap: 1%;
+justify-content: space-between;
+list-style: none;
+}
+.mi{
+text-align: center;
+}
+.style{
+    text-align: left;
+}
+.title{
+    margin:30px,40px ;
+text-align:initial ;
+}
+.mon{
+    display: flex;
+    gap: 150px;
+}
